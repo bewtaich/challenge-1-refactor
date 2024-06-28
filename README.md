@@ -1,7 +1,7 @@
 # challenge-1-refactor
 
 ## Description
-This project was developed to meet accessibility standards and increase search engine optimization for this website. Elements have been labeled semantically and in logical order. CSS styles have been changed and condensed to follow new semantic structure.   
+This project was developed to meet accessibility standards and increase search engine optimization for this website. Elements have been labeled semantically and in logical order. Images have been given alt text. CSS styles have been changed and condensed to follow new semantic structure.   
 
 ## Installation
 N/A
